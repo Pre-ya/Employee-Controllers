@@ -1,0 +1,861 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "Create a Employee",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 63732356800,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Creating a Employee",
+            "match": {
+              "location": "EmpSteps.MyStepdefs.creatingAEmployee()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-08-16T12:46:16.529Z",
+        "line": 6,
+        "name": "Verify that a Employee is created",
+        "description": "",
+        "id": "employeecontroller-feature;verify-that-a-employee-is-created",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 96740300,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "the user is created",
+            "match": {
+              "location": "EmpSteps.MyStepdefs.theUserIsCreated()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "Create a Employee",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 1188768200,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Creating a Employee",
+            "match": {
+              "location": "EmpSteps.MyStepdefs.creatingAEmployee()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-08-16T12:47:20.478Z",
+        "line": 9,
+        "name": "Verify that the firstName is not given while creating an Employee",
+        "description": "",
+        "id": "employeecontroller-feature;verify-that-the-firstname-is-not-given-while-creating-an-employee",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1706520000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "creating a Employee with firstName Blank",
+            "match": {
+              "location": "EmpSteps.MyStepdefs.creatingAEmployeeWithFirstNameBlank()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 213964800,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Error is displayed when firstName is not given",
+            "match": {
+              "location": "EmpSteps.MyStepdefs.errorIsDisplayedWhenFirstNameIsNotGiven()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "Create a Employee",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 715197000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Creating a Employee",
+            "match": {
+              "location": "EmpSteps.MyStepdefs.creatingAEmployee()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-08-16T12:47:23.618Z",
+        "line": 13,
+        "name": "Verify that the lastName is not given while creating an Employee",
+        "description": "",
+        "id": "employeecontroller-feature;verify-that-the-lastname-is-not-given-while-creating-an-employee",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1055756400,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "creating a Employee with lastName Blank",
+            "match": {
+              "location": "EmpSteps.MyStepdefs.creatingAEmployeeWithLastNameBlank()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3989100,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "Error is displayed when lastName is not given",
+            "match": {
+              "location": "EmpSteps.MyStepdefs.errorIsDisplayedWhenLastNameIsNotGiven()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "Create a Employee",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 653800700,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Creating a Employee",
+            "match": {
+              "location": "EmpSteps.MyStepdefs.creatingAEmployee()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-08-16T12:47:25.427Z",
+        "line": 17,
+        "name": "Verify that the address is not given while creating an Employee",
+        "description": "",
+        "id": "employeecontroller-feature;verify-that-the-address-is-not-given-while-creating-an-employee",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1396135700,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "creating a Employee with address Blank",
+            "match": {
+              "location": "EmpSteps.MyStepdefs.creatingAEmployeeWithAddressBlank()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 7975500,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "Error is displayed when address is not given",
+            "match": {
+              "location": "EmpSteps.MyStepdefs.errorIsDisplayedWhenAddressIsNotGiven()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "Create a Employee",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 1609786600,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Creating a Employee",
+            "match": {
+              "location": "EmpSteps.MyStepdefs.creatingAEmployee()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-08-16T12:47:27.528Z",
+        "line": 21,
+        "name": "Verify that the phoneNumber is not given While Creating an Employee",
+        "description": "",
+        "id": "employeecontroller-feature;verify-that-the-phonenumber-is-not-given-while-creating-an-employee",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 450579400,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "creating a Employee with phoneNumber Blank",
+            "match": {
+              "location": "EmpSteps.MyStepdefs.creatingAEmployeeWithPhoneNumberBlank()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 997500,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "Error is displayed when phoneNumber is not given",
+            "match": {
+              "location": "EmpSteps.MyStepdefs.errorIsDisplayedWhenPhoneNumberIsNotGiven()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "Create a Employee",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 1415063100,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Creating a Employee",
+            "match": {
+              "location": "EmpSteps.MyStepdefs.creatingAEmployee()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-08-16T12:47:29.620Z",
+        "line": 25,
+        "name": "Verify that the user able to get the details of Employees by using valid Endpoint",
+        "description": "",
+        "id": "employeecontroller-feature;verify-that-the-user-able-to-get-the-details-of-employees-by-using-valid-endpoint",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 19909868400,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "get the details of employee",
+            "match": {
+              "location": "EmpSteps.MyStepdefs.getTheDetailsOfEmployee()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "Create a Employee",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 1391555300,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Creating a Employee",
+            "match": {
+              "location": "EmpSteps.MyStepdefs.creatingAEmployee()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-08-16T12:47:50.973Z",
+        "line": 28,
+        "name": "Verify that the user not able to get the details of Employees by using invalid Endpoint",
+        "description": "",
+        "id": "employeecontroller-feature;verify-that-the-user-not-able-to-get-the-details-of-employees-by-using-invalid-endpoint",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 37084057100,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "get the details of employee with invalid Endpoint",
+            "match": {
+              "location": "EmpSteps.MyStepdefs.getTheDetailsOfEmployeeWithInvalidEndpoint()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 6981800,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "Details of Employee displayed with invalid Endpoint",
+            "match": {
+              "location": "EmpSteps.MyStepdefs.detailsOfEmployeeDisplayedWithInvalidEndpoint()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "Create a Employee",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 1103005500,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Creating a Employee",
+            "match": {
+              "location": "EmpSteps.MyStepdefs.creatingAEmployee()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-08-16T12:48:29.549Z",
+        "line": 32,
+        "name": "Verify that the user able to get the details of Employee by ID",
+        "description": "",
+        "id": "employeecontroller-feature;verify-that-the-user-able-to-get-the-details-of-employee-by-id",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3695268500,
+              "status": "passed"
+            },
+            "line": 33,
+            "name": "get the details of employee with ID",
+            "match": {
+              "location": "EmpSteps.MyStepdefs.getTheDetailsOfEmployeeWithID()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3991200,
+              "status": "passed"
+            },
+            "line": 34,
+            "name": "Details of Employee displayed With ID",
+            "match": {
+              "location": "EmpSteps.MyStepdefs.detailsOfEmployeeDisplayedWithID()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "Create a Employee",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 1469125900,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Creating a Employee",
+            "match": {
+              "location": "EmpSteps.MyStepdefs.creatingAEmployee()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-08-16T12:48:34.369Z",
+        "line": 36,
+        "name": "Verify that the user able to get the details of Employees without using ID",
+        "description": "",
+        "id": "employeecontroller-feature;verify-that-the-user-able-to-get-the-details-of-employees-without-using-id",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 10365582600,
+              "status": "passed"
+            },
+            "line": 37,
+            "name": "get the details of employees without using ID",
+            "match": {
+              "location": "EmpSteps.MyStepdefs.getTheDetailsOfEmployeesWithoutUsingID()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "Create a Employee",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 6564030300,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Creating a Employee",
+            "match": {
+              "location": "EmpSteps.MyStepdefs.creatingAEmployee()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-08-16T12:48:46.220Z",
+        "line": 39,
+        "name": "Verify that a Employee is updated",
+        "description": "",
+        "id": "employeecontroller-feature;verify-that-a-employee-is-updated",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 20810117500,
+              "status": "passed"
+            },
+            "line": 40,
+            "name": "Update the user",
+            "match": {
+              "location": "EmpSteps.MyStepdefs.updateTheUser()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3990200,
+              "status": "passed"
+            },
+            "line": 41,
+            "name": "the user is updated",
+            "match": {
+              "location": "EmpSteps.MyStepdefs.theUserIsUpdated()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "Create a Employee",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 13103307100,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Creating a Employee",
+            "match": {
+              "location": "EmpSteps.MyStepdefs.creatingAEmployee()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-08-16T12:49:13.725Z",
+        "line": 43,
+        "name": "Verify that ID is not given While Updating an Employee",
+        "description": "",
+        "id": "employeecontroller-feature;verify-that-id-is-not-given-while-updating-an-employee",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2646166100,
+              "status": "passed"
+            },
+            "line": 44,
+            "name": "Updating a Employee without ID",
+            "match": {
+              "location": "EmpSteps.MyStepdefs.updatingAEmployeeWithoutID()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1847400,
+              "status": "passed"
+            },
+            "line": 45,
+            "name": "Error is displayed when ID is not given",
+            "match": {
+              "location": "EmpSteps.MyStepdefs.errorIsDisplayedWhenIDIsNotGiven()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "Create a Employee",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 608035400,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Creating a Employee",
+            "match": {
+              "location": "EmpSteps.MyStepdefs.creatingAEmployee()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-08-16T12:49:29.560Z",
+        "line": 47,
+        "name": "Verify that firstName is not given While Updating an Employee",
+        "description": "",
+        "id": "employeecontroller-feature;verify-that-firstname-is-not-given-while-updating-an-employee",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1102847100,
+              "status": "passed"
+            },
+            "line": 48,
+            "name": "Updating an Employee with firstName Blank",
+            "match": {
+              "location": "EmpSteps.MyStepdefs.updatingAnEmployeeWithFirstNameBlank()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 997000,
+              "status": "passed"
+            },
+            "line": 49,
+            "name": "Error is displayed when firstName is not given While updating",
+            "match": {
+              "location": "EmpSteps.MyStepdefs.errorIsDisplayedWhenFirstNameIsNotGivenWhileUpdating()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "Create a Employee",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 641826600,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Creating a Employee",
+            "match": {
+              "location": "EmpSteps.MyStepdefs.creatingAEmployee()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-08-16T12:49:31.385Z",
+        "line": 51,
+        "name": "Verify that the lastName is not given While Updating an Employee",
+        "description": "",
+        "id": "employeecontroller-feature;verify-that-the-lastname-is-not-given-while-updating-an-employee",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 476040300,
+              "status": "passed"
+            },
+            "line": 52,
+            "name": "Updating an Employee with lastName Blank",
+            "match": {
+              "location": "EmpSteps.MyStepdefs.updatingAnEmployeeWithLastNameBlank()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1994000,
+              "status": "passed"
+            },
+            "line": 53,
+            "name": "Error is displayed when lastName is not given While updating",
+            "match": {
+              "location": "EmpSteps.MyStepdefs.errorIsDisplayedWhenLastNameIsNotGivenWhileUpdating()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "Create a Employee",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 223530100,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Creating a Employee",
+            "match": {
+              "location": "EmpSteps.MyStepdefs.creatingAEmployee()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-08-16T12:49:32.516Z",
+        "line": 55,
+        "name": "Verify that phoneNumber is not given While Updating an Employee",
+        "description": "",
+        "id": "employeecontroller-feature;verify-that-phonenumber-is-not-given-while-updating-an-employee",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 500610900,
+              "status": "passed"
+            },
+            "line": 56,
+            "name": "Updating an Employee with phoneNumber Blank",
+            "match": {
+              "location": "EmpSteps.MyStepdefs.updatingAnEmployeeWithPhoneNumberBlank()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3956100,
+              "status": "passed"
+            },
+            "line": 57,
+            "name": "Error is displayed when phoneNumber is not given While updating",
+            "match": {
+              "location": "EmpSteps.MyStepdefs.errorIsDisplayedWhenPhoneNumberIsNotGivenWhileUpdating()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "Create a Employee",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 1554654400,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Creating a Employee",
+            "match": {
+              "location": "EmpSteps.MyStepdefs.creatingAEmployee()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-08-16T12:49:33.266Z",
+        "line": 59,
+        "name": "Verify that a Employee is deleted",
+        "description": "",
+        "id": "employeecontroller-feature;verify-that-a-employee-is-deleted",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3745878400,
+              "status": "passed"
+            },
+            "line": 60,
+            "name": "the user is deleted",
+            "match": {
+              "location": "EmpSteps.MyStepdefs.theUserIsDeleted()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "Create a Employee",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 982789900,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Creating a Employee",
+            "match": {
+              "location": "EmpSteps.MyStepdefs.creatingAEmployee()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-08-16T12:49:38.585Z",
+        "line": 62,
+        "name": "Verify that error is thrown when ID is not given While Deleting a Employee",
+        "description": "",
+        "id": "employeecontroller-feature;verify-that-error-is-thrown-when-id-is-not-given-while-deleting-a-employee",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 598584800,
+              "status": "passed"
+            },
+            "line": 63,
+            "name": "Deleting an Employee without ID",
+            "match": {
+              "location": "EmpSteps.MyStepdefs.deletingAnEmployeeWithoutID()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 996300,
+              "status": "passed"
+            },
+            "line": 64,
+            "name": "Error is displayed when ID is not given While Deleting a Employee",
+            "match": {
+              "location": "EmpSteps.MyStepdefs.errorIsDisplayedWhenIDIsNotGivenWhileDeletingAEmployee()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "EmployeeController Feature",
+    "description": "",
+    "id": "employeecontroller-feature",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/EmpFeature/Features.feature",
+    "tags": []
+  }
+]

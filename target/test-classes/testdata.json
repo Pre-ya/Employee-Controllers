@@ -1,0 +1,213 @@
+{
+  "createEmployee":
+  {
+    "firstName":"pavani",
+    "lastName":"ani",
+    "age":35,
+    "noOfChildrens":2,
+    "spouse":false,
+    "address":{
+      "streetAddress":"9-4,Gajuwaka",
+      "city":"Vizag",
+      "state":"AndhraPradesh",
+      "country":"India",
+      "postalCode":"500467"
+    },
+    "phoneNumbers":[{
+      "type":"home",
+      "number":"9999888110"
+    }],
+    "hobbies":["playing","reading"]
+  },
+
+  "updateEmployee": {
+    "firstName": "sree",
+    "lastName": "jai",
+    "age": 50,
+    "noOfChildrens": 4,
+    "spouse": true,
+    "address": {
+      "streetAddress": "12/12 xyz street",
+      "city": "Secundrabad",
+      "state": "telangana",
+      "country": "India",
+      "postalCode": "532255"
+    },
+    "phoneNumbers": [
+      {
+        "type": "mobile",
+        "number": "9888888999"
+      }
+    ],
+    "hobbies": [
+      "singing",
+      "playing games"
+    ]
+  },
+  "EmployeeWithfirstNameBlank": {
+    "lastName": "jai",
+    "age": 50,
+    "noOfChildrens": 4,
+    "spouse": true,
+    "address": {
+      "streetAddress": "12/12 xyz street",
+      "city": "Secundrabad",
+      "state": "telangana",
+      "country": "India",
+      "postalCode": "532255"
+    },
+    "phoneNumbers": [
+      {
+        "type": "mobile",
+        "number": "9888888999"
+      }
+    ],
+    "hobbies": [
+      "singing",
+      "playing games"
+    ]
+  },
+  "EmployeeWithlastNameBlank": {
+    "firstName": "sree",
+    "age": 50,
+    "noOfChildrens": 4,
+    "spouse": true,
+    "address": {
+      "streetAddress": "12/12 xyz street",
+      "city": "Secundrabad",
+      "state": "telangana",
+      "country": "India",
+      "postalCode": "532255"
+    },
+    "phoneNumbers": [
+      {
+        "type": "mobile",
+        "number": "9888888999"
+      }
+    ],
+    "hobbies": [
+      "singing",
+      "playing games"
+    ]
+  },
+  "EmployeewithAdressBlank": {
+    "firstName": "sree",
+    "lastName": "jai",
+    "age": 50,
+    "noOfChildrens": 4,
+    "spouse": true,
+    "phoneNumbers": [
+      {
+        "type": "mobile",
+        "number": "9888888999"
+      }
+    ],
+    "hobbies": [
+      "singing",
+      "playing games"
+    ]
+  },
+  "EmployeewithphoneNumberBlank": {
+    "firstName": "sree",
+    "lastName": "jai",
+    "age": 50,
+    "noOfChildrens": 4,
+    "spouse": true,
+    "address": {
+      "streetAddress": "12/12 xyz street",
+      "city": "Secundrabad",
+      "state": "telangana",
+      "country": "India",
+      "postalCode": "532255"
+    },
+    "hobbies": [
+      "singing",
+      "playing games"
+    ]
+  },
+  "EmployeewithphoneNumberBlank": {
+    "firstName": "pavani",
+    "lastName": "ani",
+    "age": 35,
+    "noOfChildrens": 2,
+    "spouse": false,
+    "address": {
+      "streetAddress": "9-4,Gajuwaka",
+      "city": "Vizag",
+      "state": "AndhraPradesh",
+      "country": "India",
+      "postalCode": "500467"
+    },
+    "hobbies": [
+      "playing",
+      "reading"
+    ]
+  },
+  "EmployeefirstNameBlank": {
+    "lastName": "jai",
+    "age": 50,
+    "noOfChildrens": 4,
+    "spouse": true,
+    "address": {
+      "streetAddress": "12/12 xyz street",
+      "city": "Secundrabad",
+      "state": "telangana",
+      "country": "India",
+      "postalCode": "532255"
+    },
+    "phoneNumbers": [
+      {
+        "type": "mobile",
+        "number": "9888888999"
+      }
+    ],
+    "hobbies": [
+      "singing",
+      "playing games"
+    ]
+  },
+  "EmployeelastNameBlank": {
+    "firstName": "sree",
+    "age": 50,
+    "noOfChildrens": 4,
+    "spouse": true,
+    "address": {
+      "streetAddress": "12/12 xyz street",
+      "city": "Secundrabad",
+      "state": "telangana",
+      "country": "India",
+      "postalCode": "532255"
+    },
+    "phoneNumbers": [
+      {
+        "type": "mobile",
+        "number": "9888888999"
+      }
+    ],
+    "hobbies": [
+      "singing",
+      "playing games"
+    ]
+  },
+  "EmployeephoneNumberBlank": {
+    "firstName": "sree",
+    "lastName": "jai",
+    "age": 50,
+    "noOfChildrens": 4,
+    "spouse": true,
+    "address": {
+      "streetAddress": "12/12 xyz street",
+      "city": "Secundrabad",
+      "state": "telangana",
+      "country": "India",
+      "postalCode": "532255"
+    },
+    "hobbies": [
+      "singing",
+      "playing games"
+    ]
+  }
+}
+
+
+
